@@ -13,14 +13,14 @@
 
 </div>
 
-### 👋 Halo, saya MrPrinceAli
+### 👋 Hi, I'm MrPrinceAli
 
-Builder dari Indonesia yang suka menggabungkan **AI**, **blockchain**, dan **keamanan siber** untuk masalah nyata: petani yang butuh modal tanam, donasi yang harus transparan, kredensial yang bisa dibuktikan, dan masyarakat yang perlu dilindungi dari penipuan digital.
+A builder from Indonesia 🇮🇩 combining **AI**, **blockchain**, and **cybersecurity** to solve real problems: farmers who need planting capital, donations that must stay transparent, credentials that can be proven, and people who need protection from digital fraud.
 
-- 🛡️ Sedang membangun **CSAIS**, sistem intelijen serangan siber berbasis berita dengan rekomendasi literasi per provinsi yang disusun AI
-- 🌾 Fokus pada **real-world assets** dan **AI agent** yang bisa diaudit on-chain
-- 🔐 Tertarik pada privasi: zero-knowledge proof, E2EE, dan verifiable credentials
-- 🏆 Rutin ikut hackathon Web3 dan climate tech
+- 🛡️ Currently building **CSAIS**, a news-driven cyber attack intelligence system with AI-written literacy recommendations for every Indonesian province
+- 🌾 Focused on **real-world assets** and **AI agents** that can be audited on-chain
+- 🔐 Into privacy tech: zero-knowledge proofs, end-to-end encryption, and verifiable credentials
+- 🏆 Regular at Web3 and climate-tech hackathons
 
 ---
 
@@ -28,13 +28,13 @@ Builder dari Indonesia yang suka menggabungkan **AI**, **blockchain**, dan **kea
 
 | | Project | What it does | Stack |
 |---|---|---|---|
-| 🛡️ | **[CSAIS](https://github.com/MrPrinceAli/CSAIS)** · [live](https://csais.vercel.app) | Cyber Social Attack Intelligence System: pipeline berita serangan siber, alur verifikasi D1–D4 (mesin, publik, lembaga, catatan resmi), Merkle ledger, dan Peta Literasi Indonesia dengan saran AI | Python · Next.js · Turso · Solidity |
-| 🌾 | **[BagiPanen](https://github.com/MrPrinceAli/bagipanen)** · [live](https://bagipanen.vercel.app) | Pendanaan modal tanam petani tanpa ijon: escrow per musim, pencairan dua kunci (agen AI ERC-8004 + koperasi), bagi hasil otomatis | Solidity · Foundry · Next.js · BNB Chain |
-| 🪪 | **[Proven-ID](https://github.com/MrPrinceAli/proven)** · [live](https://proven-id.vercel.app) | Identitas profesional terverifikasi: W3C Verifiable Credentials yang ditandatangani penerbit dan dijangkarkan di BNB Smart Chain, tanpa data pribadi on-chain | TypeScript · Fastify · Prisma · Solidity |
-| 🌳 | **[zkanopy](https://github.com/MrPrinceAli/zkanopy)** | Bukti zero-knowledge bebas deforestasi (EUDR) untuk petani kecil · IEEE ClimateChain 2026 | Circom · Groth16 · Solidity · Base |
-| 🤝 | **[Himpun](https://github.com/MrPrinceAli/himpun)** · [live](https://himpun.vercel.app) | Penggalangan dana transparan di Ethereum: setiap penarikan harus disetujui donatur lewat voting on-chain | Solidity · Hardhat · Next.js |
-| 🖤 | **[Blackchat](https://github.com/MrPrinceAli/blackchat)** · [live](https://blackchat-id.vercel.app) | Chat rahasia E2EE 1-lawan-1: pesan melebur setelah dibaca, akun hangus 72 jam, server hanya melihat ciphertext | Svelte 5 · Cloudflare Workers · libsodium |
-| 🎾 | **[Sanapati Tenis](https://github.com/MrPrinceAli/sanapati-tenis)** · [live](https://sanapati-tenis.vercel.app) | Platform komunitas tenis: booking lapangan, mabar, turnamen, profil pemain | Next.js 15 · TypeScript · SQLite |
+| 🛡️ | **[CSAIS](https://github.com/MrPrinceAli/CSAIS)** · [live](https://csais.vercel.app) | Cyber Social Attack Intelligence System: a news pipeline for cyber attacks, a four-stage verification flow (machine, public, institution, official record), a Merkle ledger, and an Indonesia literacy map with AI advice | Python · Next.js · Turso · Solidity |
+| 🌾 | **[BagiPanen](https://github.com/MrPrinceAli/bagipanen)** · [live](https://bagipanen.vercel.app) | Fair planting capital for farmers: per-season escrow, two-key disbursement (ERC-8004 AI agent + cooperative), and automatic profit sharing | Solidity · Foundry · Next.js · BNB Chain |
+| 🪪 | **[Proven-ID](https://github.com/MrPrinceAli/proven)** · [live](https://proven-id.vercel.app) | Verified professional identity: W3C Verifiable Credentials signed by issuers and anchored on BNB Smart Chain, with zero personal data on-chain | TypeScript · Fastify · Prisma · Solidity |
+| 🌳 | **[zkanopy](https://github.com/MrPrinceAli/zkanopy)** | Zero-knowledge deforestation-free proofs (EUDR) for smallholder farmers · IEEE ClimateChain 2026 | Circom · Groth16 · Solidity · Base |
+| 🤝 | **[Himpun](https://github.com/MrPrinceAli/himpun)** · [live](https://himpun.vercel.app) | Transparent fundraising on Ethereum: every withdrawal must be approved by donors through an on-chain vote | Solidity · Hardhat · Next.js |
+| 🖤 | **[Blackchat](https://github.com/MrPrinceAli/blackchat)** · [live](https://blackchat-id.vercel.app) | Private end-to-end encrypted 1:1 chat: messages vanish after reading, accounts expire in 72 hours, the server only sees ciphertext | Svelte 5 · Cloudflare Workers · libsodium |
+| 🎾 | **[Sanapati Tenis](https://github.com/MrPrinceAli/sanapati-tenis)** · [live](https://sanapati-tenis.vercel.app) | Tennis community platform: court booking, matchmaking, tournaments, and player profiles | Next.js 15 · TypeScript · SQLite |
 
 ---
 
