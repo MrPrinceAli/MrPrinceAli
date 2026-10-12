@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# satu run sekaligus: dua run bersamaan berebut menulis cabang output
+concurrency:
+  group: snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
